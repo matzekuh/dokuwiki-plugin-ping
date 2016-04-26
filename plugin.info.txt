@@ -1,0 +1,6 @@
+base   ping
+author Matthias Jung
+email  matthias.jung@fmc.uni-karlsruhe.de
+date   2016-04-26
+name   ping plugin
+desc   ping address
